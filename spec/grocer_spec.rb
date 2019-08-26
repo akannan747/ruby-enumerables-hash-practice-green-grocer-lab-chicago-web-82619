@@ -1,4 +1,3 @@
-=begin
 describe "Grocer" do
   let(:items) do
     [
@@ -318,4 +317,3 @@ describe "Grocer" do
     end
   end
 end
-=end
